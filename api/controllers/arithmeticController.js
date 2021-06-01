@@ -20,9 +20,6 @@ exports.calculate = function (req, res) {
     multiply: function (a, b) {
       return a * a;
     },
-    divide: function (a, b) {
-      return a / b;
-    },
   };
 
   // Determine the operation
