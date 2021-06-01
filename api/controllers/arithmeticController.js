@@ -18,7 +18,7 @@ exports.calculate = function (req, res) {
       return a - b;
     },
     multiply: function (a, b) {
-      return a * aa;
+      return a * a;
     },
   };
 
