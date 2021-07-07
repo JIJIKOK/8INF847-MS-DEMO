@@ -1,8 +1,9 @@
 "use strict";
-
+//
 //A
 //B
 //C
+//
 exports.calculate = function (req, res) {
   req.app.use(function (err, req, res, next) {
     if (res.headersSent) {
